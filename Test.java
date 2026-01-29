@@ -30,8 +30,8 @@ public class Test {
 
     // Main method
     public static void main(String[] args) {
-        int x = 50;
-        int y = 30;
+        int x = 509;
+        int y = 300;
 
         add(x, y);
         sub(x, y);
